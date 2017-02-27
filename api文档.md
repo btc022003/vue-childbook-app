@@ -1,14 +1,14 @@
 #### 在线儿童图书阅读平台api接口文档1.0
 1. 获取书籍列表数据
 
-```
-请求地址:http://penkuoer.com/api/v1/book/get_books_by_page.json
-method:get
-参数:
-    page    必填    分页获取数据的页码
-    title   可选    查询检索条件
-返回值:
-{
+    ```
+    请求地址:http://penkuoer.com/api/v1/book/get_books_by_page.json
+    method:get
+    参数:
+        page    必填    分页获取数据的页码
+        title   可选    查询检索条件
+    返回值:
+    {
     "status": "y",
     "msg": "操作成功",
     "info": "操作成功",
