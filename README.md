@@ -1,6 +1,6 @@
 # vue-childbook-app
 
-> 儿童书籍在线阅读
+> 使用mint-ui实现儿童书籍在线阅读
 
 ## Build Setup
 
